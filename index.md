@@ -3,3 +3,5 @@
 ### This should be fun!
 
 **See you soon**
+
+theme: minima
