@@ -4,4 +4,5 @@
 
 **See you soon**
 
+# Build settings
 theme: minima
